@@ -1,3 +1,5 @@
+//googleOauth.ts
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { type GUserInfo } from "@auth/models/auth.interfaces";
 import { CustomError } from "@utils/errors";
 
